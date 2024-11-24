@@ -1,6 +1,6 @@
 import pytest
 
-from tools.testlib import testlib
+import testlib
 from .string_manipulations import common_prefix, cut_suffix, boxed, find_all, capwords
 
 

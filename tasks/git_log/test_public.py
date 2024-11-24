@@ -1,6 +1,6 @@
 import io
 
-from tasks.git_log.git_log import reformat_git_log
+from .git_log import reformat_git_log
 
 
 ###################

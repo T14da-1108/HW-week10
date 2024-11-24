@@ -1,4 +1,4 @@
-from tools.testlib import testlib
+import testlib
 
 from .extract_me_if_you_can import extract_emails, has_vowel, parse_number
 
